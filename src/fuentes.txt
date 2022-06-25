@@ -1,0 +1,22 @@
+/*--Fuente del menu--*/
+
+
+/*--Fuente de los titulos--*/
+
+font-family: 'DM Serif Display', serif;
+
+color titulos: 
+
+/*-- fuente texto comun --*/
+
+
+font-family: 'Roboto', sans-serif;
+
+color texto comun
+
+/*--fuente texto destacado --*/
+
+roboto semi bold 600
+
+
+color texto destacado
